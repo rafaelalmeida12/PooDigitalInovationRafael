@@ -1,0 +1,16 @@
+C:\Users\rafae\Documentos\POODigitalInovationRafael\bin\Debug\net5.0\POODigitalInovationRafael.exe
+C:\Users\rafae\Documentos\POODigitalInovationRafael\bin\Debug\net5.0\POODigitalInovationRafael.deps.json
+C:\Users\rafae\Documentos\POODigitalInovationRafael\bin\Debug\net5.0\POODigitalInovationRafael.runtimeconfig.json
+C:\Users\rafae\Documentos\POODigitalInovationRafael\bin\Debug\net5.0\POODigitalInovationRafael.runtimeconfig.dev.json
+C:\Users\rafae\Documentos\POODigitalInovationRafael\bin\Debug\net5.0\POODigitalInovationRafael.dll
+C:\Users\rafae\Documentos\POODigitalInovationRafael\bin\Debug\net5.0\ref\POODigitalInovationRafael.dll
+C:\Users\rafae\Documentos\POODigitalInovationRafael\bin\Debug\net5.0\POODigitalInovationRafael.pdb
+C:\Users\rafae\Documentos\POODigitalInovationRafael\obj\Debug\net5.0\POODigitalInovationRafael.csprojAssemblyReference.cache
+C:\Users\rafae\Documentos\POODigitalInovationRafael\obj\Debug\net5.0\POODigitalInovationRafael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documentos\POODigitalInovationRafael\obj\Debug\net5.0\POODigitalInovationRafael.AssemblyInfoInputs.cache
+C:\Users\rafae\Documentos\POODigitalInovationRafael\obj\Debug\net5.0\POODigitalInovationRafael.AssemblyInfo.cs
+C:\Users\rafae\Documentos\POODigitalInovationRafael\obj\Debug\net5.0\POODigitalInovationRafael.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documentos\POODigitalInovationRafael\obj\Debug\net5.0\POODigitalInovationRafael.dll
+C:\Users\rafae\Documentos\POODigitalInovationRafael\obj\Debug\net5.0\ref\POODigitalInovationRafael.dll
+C:\Users\rafae\Documentos\POODigitalInovationRafael\obj\Debug\net5.0\POODigitalInovationRafael.pdb
+C:\Users\rafae\Documentos\POODigitalInovationRafael\obj\Debug\net5.0\POODigitalInovationRafael.genruntimeconfig.cache
